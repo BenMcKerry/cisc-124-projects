@@ -1,0 +1,435 @@
+COMPLETED TRANSACTIONS 
+
+State: 1, Taxi ID Number: 175, Distance to Customer: 12.0
+State: 1, Taxi ID Number: 178, Distance to Customer: 33.12099032335839
+State: 1, Taxi ID Number: 254, Distance to Customer: 11.40175425099138
+State: 1, Taxi ID Number: 231, Distance to Customer: 28.284271247461902
+State: 1, Taxi ID Number: 222, Distance to Customer: 18.973665961010276
+State: 1, Taxi ID Number: 330, Distance to Customer: 32.7566787083184
+State: 1, Taxi ID Number: 385, Distance to Customer: 22.360679774997898
+State: 1, Taxi ID Number: 283, Distance to Customer: 34.0
+State: 1, Taxi ID Number: 163, Distance to Customer: 13.416407864998739
+State: 1, Taxi ID Number: 29, Distance to Customer: 14.142135623730951
+State: 1, Taxi ID Number: 284, Distance to Customer: 32.2490309931942
+State: 1, Taxi ID Number: 380, Distance to Customer: 25.238858928247925
+State: 1, Taxi ID Number: 92, Distance to Customer: 30.610455730027933
+State: 1, Taxi ID Number: 73, Distance to Customer: 25.96150997149434
+State: 1, Taxi ID Number: 272, Distance to Customer: 27.313000567495326
+State: 1, Taxi ID Number: 211, Distance to Customer: 21.93171219946131
+State: 1, Taxi ID Number: 375, Distance to Customer: 26.92582403567252
+State: 1, Taxi ID Number: 287, Distance to Customer: 24.041630560342615
+State: 1, Taxi ID Number: 99, Distance to Customer: 22.090722034374522
+State: 1, Taxi ID Number: 273, Distance to Customer: 8.06225774829855
+State: 1, Taxi ID Number: 310, Distance to Customer: 26.92582403567252
+State: 1, Taxi ID Number: 25, Distance to Customer: 11.704699910719626
+State: 1, Taxi ID Number: 234, Distance to Customer: 31.76476034853718
+State: 1, Taxi ID Number: 343, Distance to Customer: 24.186773244895647
+State: 1, Taxi ID Number: 271, Distance to Customer: 35.805027579936315
+State: 1, Taxi ID Number: 279, Distance to Customer: 36.124783736376884
+State: 1, Taxi ID Number: 165, Distance to Customer: 19.697715603592208
+State: 1, Taxi ID Number: 242, Distance to Customer: 31.04834939252005
+State: 1, Taxi ID Number: 196, Distance to Customer: 12.529964086141668
+State: 1, Taxi ID Number: 382, Distance to Customer: 30.805843601498726
+State: 1, Taxi ID Number: 259, Distance to Customer: 29.0
+State: 1, Taxi ID Number: 288, Distance to Customer: 35.38361202590826
+State: 1, Taxi ID Number: 338, Distance to Customer: 32.64965543462902
+State: 1, Taxi ID Number: 88, Distance to Customer: 9.0
+State: 1, Taxi ID Number: 111, Distance to Customer: 9.219544457292887
+State: 1, Taxi ID Number: 362, Distance to Customer: 30.805843601498726
+State: 1, Taxi ID Number: 276, Distance to Customer: 3.605551275463989
+State: 1, Taxi ID Number: 372, Distance to Customer: 23.021728866442675
+State: 1, Taxi ID Number: 84, Distance to Customer: 22.80350850198276
+State: 1, Taxi ID Number: 58, Distance to Customer: 16.15549442140351
+State: 1, Taxi ID Number: 331, Distance to Customer: 26.076809620810597
+State: 1, Taxi ID Number: 141, Distance to Customer: 28.792360097775937
+State: 1, Taxi ID Number: 68, Distance to Customer: 4.123105625617661
+State: 1, Taxi ID Number: 33, Distance to Customer: 22.02271554554524
+State: 1, Taxi ID Number: 170, Distance to Customer: 18.867962264113206
+State: 1, Taxi ID Number: 347, Distance to Customer: 39.20459156782532
+State: 1, Taxi ID Number: 378, Distance to Customer: 37.53664875824692
+State: 1, Taxi ID Number: 78, Distance to Customer: 26.1725046566048
+State: 1, Taxi ID Number: 213, Distance to Customer: 29.966648127543394
+State: 1, Taxi ID Number: 57, Distance to Customer: 4.123105625617661
+State: 1, Taxi ID Number: 281, Distance to Customer: 24.73863375370596
+State: 1, Taxi ID Number: 320, Distance to Customer: 9.433981132056603
+State: 1, Taxi ID Number: 173, Distance to Customer: 10.04987562112089
+State: 1, Taxi ID Number: 304, Distance to Customer: 30.066592756745816
+State: 1, Taxi ID Number: 38, Distance to Customer: 21.95449840010015
+State: 1, Taxi ID Number: 59, Distance to Customer: 12.083045973594572
+State: 1, Taxi ID Number: 202, Distance to Customer: 28.30194339616981
+State: 1, Taxi ID Number: 28, Distance to Customer: 25.0
+State: 1, Taxi ID Number: 227, Distance to Customer: 10.295630140987
+State: 1, Taxi ID Number: 127, Distance to Customer: 25.059928172283335
+State: 1, Taxi ID Number: 251, Distance to Customer: 9.433981132056603
+State: 1, Taxi ID Number: 86, Distance to Customer: 18.35755975068582
+State: 2, Taxi ID Number: 387, Distance to Customer: 7.0710678118654755
+State: 2, Taxi ID Number: 274, Distance to Customer: 9.219544457292887
+State: 2, Taxi ID Number: 267, Distance to Customer: 11.40175425099138
+State: 2, Taxi ID Number: 175, Distance to Customer: 12.806248474865697
+State: 2, Taxi ID Number: 311, Distance to Customer: 6.082762530298219
+State: 2, Taxi ID Number: 180, Distance to Customer: 7.0710678118654755
+State: 2, Taxi ID Number: 287, Distance to Customer: 6.082762530298219
+State: 2, Taxi ID Number: 380, Distance to Customer: 2.0
+State: 2, Taxi ID Number: 283, Distance to Customer: 17.46424919657298
+State: 2, Taxi ID Number: 15, Distance to Customer: 7.615773105863909
+State: 2, Taxi ID Number: 391, Distance to Customer: 13.152946437965905
+State: 2, Taxi ID Number: 231, Distance to Customer: 5.0
+State: 2, Taxi ID Number: 238, Distance to Customer: 16.401219466856727
+State: 2, Taxi ID Number: 141, Distance to Customer: 5.0990195135927845
+State: 2, Taxi ID Number: 206, Distance to Customer: 9.848857801796104
+State: 2, Taxi ID Number: 58, Distance to Customer: 2.23606797749979
+State: 2, Taxi ID Number: 165, Distance to Customer: 26.019223662515376
+State: 2, Taxi ID Number: 73, Distance to Customer: 10.63014581273465
+State: 2, Taxi ID Number: 282, Distance to Customer: 7.0710678118654755
+State: 2, Taxi ID Number: 124, Distance to Customer: 12.36931687685298
+State: 2, Taxi ID Number: 244, Distance to Customer: 18.439088914585774
+State: 3, Taxi ID Number: 327, Distance to Customer: 12.041594578792296
+State: 3, Taxi ID Number: 73, Distance to Customer: 3.605551275463989
+State: 3, Taxi ID Number: 343, Distance to Customer: 11.40175425099138
+State: 3, Taxi ID Number: 310, Distance to Customer: 14.7648230602334
+State: 3, Taxi ID Number: 11, Distance to Customer: 5.0
+State: 3, Taxi ID Number: 177, Distance to Customer: 8.48528137423857
+State: 3, Taxi ID Number: 92, Distance to Customer: 10.198039027185569
+State: 3, Taxi ID Number: 25, Distance to Customer: 4.0
+State: 3, Taxi ID Number: 61, Distance to Customer: 6.082762530298219
+State: 3, Taxi ID Number: 370, Distance to Customer: 2.23606797749979
+State: 3, Taxi ID Number: 362, Distance to Customer: 9.219544457292887
+State: 3, Taxi ID Number: 102, Distance to Customer: 7.810249675906654
+State: 3, Taxi ID Number: 124, Distance to Customer: 14.317821063276353
+State: 3, Taxi ID Number: 174, Distance to Customer: 8.602325267042627
+State: 3, Taxi ID Number: 162, Distance to Customer: 11.180339887498949
+State: 3, Taxi ID Number: 251, Distance to Customer: 11.180339887498949
+State: 3, Taxi ID Number: 254, Distance to Customer: 10.63014581273465
+State: 3, Taxi ID Number: 38, Distance to Customer: 16.55294535724685
+State: 3, Taxi ID Number: 180, Distance to Customer: 18.24828759089466
+State: 3, Taxi ID Number: 242, Distance to Customer: 5.0
+State: 3, Taxi ID Number: 328, Distance to Customer: 26.68332812825267
+State: 3, Taxi ID Number: 54, Distance to Customer: 4.123105625617661
+State: 3, Taxi ID Number: 69, Distance to Customer: 15.652475842498529
+State: 3, Taxi ID Number: 178, Distance to Customer: 21.633307652783937
+State: 3, Taxi ID Number: 213, Distance to Customer: 8.48528137423857
+State: 3, Taxi ID Number: 372, Distance to Customer: 20.615528128088304
+State: 3, Taxi ID Number: 84, Distance to Customer: 18.027756377319946
+State: 3, Taxi ID Number: 111, Distance to Customer: 13.0
+State: 3, Taxi ID Number: 260, Distance to Customer: 17.72004514666935
+State: 3, Taxi ID Number: 222, Distance to Customer: 10.295630140987
+State: 3, Taxi ID Number: 279, Distance to Customer: 12.165525060596439
+State: 3, Taxi ID Number: 375, Distance to Customer: 7.810249675906654
+State: 3, Taxi ID Number: 211, Distance to Customer: 52.49761899362675
+State: 3, Taxi ID Number: 330, Distance to Customer: 16.55294535724685
+State: 3, Taxi ID Number: 128, Distance to Customer: 5.0
+State: 4, Taxi ID Number: 330, Distance to Customer: 7.280109889280518
+State: 4, Taxi ID Number: 25, Distance to Customer: 5.656854249492381
+State: 4, Taxi ID Number: 84, Distance to Customer: 6.0
+State: 4, Taxi ID Number: 320, Distance to Customer: 3.1622776601683795
+State: 4, Taxi ID Number: 231, Distance to Customer: 4.47213595499958
+State: 4, Taxi ID Number: 133, Distance to Customer: 1.0
+State: 4, Taxi ID Number: 227, Distance to Customer: 8.06225774829855
+State: 4, Taxi ID Number: 328, Distance to Customer: 8.06225774829855
+State: 4, Taxi ID Number: 163, Distance to Customer: 5.830951894845301
+State: 4, Taxi ID Number: 397, Distance to Customer: 6.708203932499369
+State: 4, Taxi ID Number: 98, Distance to Customer: 3.605551275463989
+State: 4, Taxi ID Number: 274, Distance to Customer: 5.0990195135927845
+State: 4, Taxi ID Number: 276, Distance to Customer: 1.4142135623730951
+State: 4, Taxi ID Number: 244, Distance to Customer: 6.0
+State: 4, Taxi ID Number: 331, Distance to Customer: 15.033296378372908
+State: 4, Taxi ID Number: 164, Distance to Customer: 8.06225774829855
+State: 4, Taxi ID Number: 162, Distance to Customer: 2.8284271247461903
+State: 4, Taxi ID Number: 50, Distance to Customer: 4.47213595499958
+State: 4, Taxi ID Number: 370, Distance to Customer: 16.76305461424021
+State: 4, Taxi ID Number: 68, Distance to Customer: 2.23606797749979
+State: 4, Taxi ID Number: 311, Distance to Customer: 3.605551275463989
+State: 4, Taxi ID Number: 279, Distance to Customer: 5.0990195135927845
+State: 4, Taxi ID Number: 263, Distance to Customer: 5.830951894845301
+State: 4, Taxi ID Number: 206, Distance to Customer: 5.385164807134504
+State: 4, Taxi ID Number: 128, Distance to Customer: 5.385164807134504
+State: 4, Taxi ID Number: 291, Distance to Customer: 4.47213595499958
+State: 4, Taxi ID Number: 180, Distance to Customer: 6.324555320336759
+State: 4, Taxi ID Number: 196, Distance to Customer: 8.06225774829855
+State: 4, Taxi ID Number: 372, Distance to Customer: 8.602325267042627
+State: 4, Taxi ID Number: 210, Distance to Customer: 16.15549442140351
+State: 4, Taxi ID Number: 387, Distance to Customer: 3.0
+State: 4, Taxi ID Number: 141, Distance to Customer: 14.317821063276353
+State: 4, Taxi ID Number: 267, Distance to Customer: 6.324555320336759
+State: 4, Taxi ID Number: 281, Distance to Customer: 10.198039027185569
+State: 4, Taxi ID Number: 11, Distance to Customer: 18.0
+State: 4, Taxi ID Number: 380, Distance to Customer: 20.615528128088304
+State: 4, Taxi ID Number: 399, Distance to Customer: 8.602325267042627
+State: 4, Taxi ID Number: 251, Distance to Customer: 14.142135623730951
+State: 4, Taxi ID Number: 59, Distance to Customer: 27.730849247724095
+State: 4, Taxi ID Number: 132, Distance to Customer: 20.808652046684813
+State: 4, Taxi ID Number: 213, Distance to Customer: 2.8284271247461903
+State: 5, Taxi ID Number: 397, Distance to Customer: 5.0
+State: 5, Taxi ID Number: 362, Distance to Customer: 1.0
+State: 5, Taxi ID Number: 344, Distance to Customer: 8.602325267042627
+State: 5, Taxi ID Number: 383, Distance to Customer: 2.23606797749979
+State: 5, Taxi ID Number: 52, Distance to Customer: 2.0
+State: 5, Taxi ID Number: 213, Distance to Customer: 2.8284271247461903
+State: 5, Taxi ID Number: 254, Distance to Customer: 6.708203932499369
+State: 5, Taxi ID Number: 135, Distance to Customer: 5.0
+State: 5, Taxi ID Number: 92, Distance to Customer: 7.0710678118654755
+State: 5, Taxi ID Number: 141, Distance to Customer: 2.23606797749979
+State: 5, Taxi ID Number: 380, Distance to Customer: 1.0
+State: 5, Taxi ID Number: 174, Distance to Customer: 5.0
+State: 5, Taxi ID Number: 38, Distance to Customer: 7.810249675906654
+State: 5, Taxi ID Number: 66, Distance to Customer: 4.123105625617661
+State: 5, Taxi ID Number: 288, Distance to Customer: 1.0
+State: 5, Taxi ID Number: 33, Distance to Customer: 3.0
+State: 5, Taxi ID Number: 124, Distance to Customer: 3.0
+State: 5, Taxi ID Number: 259, Distance to Customer: 2.23606797749979
+State: 5, Taxi ID Number: 88, Distance to Customer: 11.40175425099138
+State: 5, Taxi ID Number: 15, Distance to Customer: 3.1622776601683795
+State: 5, Taxi ID Number: 73, Distance to Customer: 0.0
+State: 5, Taxi ID Number: 54, Distance to Customer: 3.605551275463989
+State: 5, Taxi ID Number: 78, Distance to Customer: 2.0
+State: 5, Taxi ID Number: 391, Distance to Customer: 5.385164807134504
+State: 5, Taxi ID Number: 272, Distance to Customer: 11.661903789690601
+State: 5, Taxi ID Number: 165, Distance to Customer: 6.4031242374328485
+State: 5, Taxi ID Number: 162, Distance to Customer: 1.0
+State: 5, Taxi ID Number: 170, Distance to Customer: 1.4142135623730951
+State: 5, Taxi ID Number: 71, Distance to Customer: 5.0
+State: 5, Taxi ID Number: 11, Distance to Customer: 7.615773105863909
+State: 5, Taxi ID Number: 50, Distance to Customer: 6.4031242374328485
+State: 5, Taxi ID Number: 276, Distance to Customer: 10.44030650891055
+State: 5, Taxi ID Number: 39, Distance to Customer: 6.708203932499369
+State: 5, Taxi ID Number: 200, Distance to Customer: 3.605551275463989
+State: 5, Taxi ID Number: 86, Distance to Customer: 2.0
+State: 5, Taxi ID Number: 59, Distance to Customer: 5.830951894845301
+State: 5, Taxi ID Number: 202, Distance to Customer: 2.8284271247461903
+State: 5, Taxi ID Number: 284, Distance to Customer: 3.605551275463989
+State: 5, Taxi ID Number: 177, Distance to Customer: 4.0
+State: 5, Taxi ID Number: 206, Distance to Customer: 5.656854249492381
+State: 5, Taxi ID Number: 28, Distance to Customer: 2.23606797749979
+State: 5, Taxi ID Number: 242, Distance to Customer: 4.47213595499958
+State: 5, Taxi ID Number: 370, Distance to Customer: 3.1622776601683795
+State: 5, Taxi ID Number: 283, Distance to Customer: 5.0990195135927845
+State: 5, Taxi ID Number: 244, Distance to Customer: 5.385164807134504
+State: 5, Taxi ID Number: 68, Distance to Customer: 6.4031242374328485
+State: 5, Taxi ID Number: 136, Distance to Customer: 9.055385138137417
+State: 5, Taxi ID Number: 271, Distance to Customer: 1.4142135623730951
+State: 5, Taxi ID Number: 29, Distance to Customer: 4.0
+State: 5, Taxi ID Number: 180, Distance to Customer: 5.830951894845301
+State: 5, Taxi ID Number: 320, Distance to Customer: 2.8284271247461903
+State: 5, Taxi ID Number: 273, Distance to Customer: 6.082762530298219
+State: 5, Taxi ID Number: 310, Distance to Customer: 3.1622776601683795
+State: 5, Taxi ID Number: 372, Distance to Customer: 10.0
+State: 5, Taxi ID Number: 365, Distance to Customer: 6.082762530298219
+State: 5, Taxi ID Number: 210, Distance to Customer: 7.280109889280518
+State: 5, Taxi ID Number: 347, Distance to Customer: 4.242640687119285
+State: 5, Taxi ID Number: 360, Distance to Customer: 1.0
+State: 5, Taxi ID Number: 163, Distance to Customer: 0.0
+State: 5, Taxi ID Number: 234, Distance to Customer: 4.47213595499958
+State: 5, Taxi ID Number: 311, Distance to Customer: 4.242640687119285
+State: 5, Taxi ID Number: 84, Distance to Customer: 5.830951894845301
+State: 5, Taxi ID Number: 338, Distance to Customer: 7.280109889280518
+State: 5, Taxi ID Number: 132, Distance to Customer: 4.123105625617661
+State: 5, Taxi ID Number: 173, Distance to Customer: 6.4031242374328485
+State: 5, Taxi ID Number: 99, Distance to Customer: 7.0710678118654755
+State: 5, Taxi ID Number: 336, Distance to Customer: 3.0
+State: 5, Taxi ID Number: 196, Distance to Customer: 12.806248474865697
+State: 5, Taxi ID Number: 231, Distance to Customer: 5.0990195135927845
+State: 5, Taxi ID Number: 286, Distance to Customer: 2.8284271247461903
+State: 5, Taxi ID Number: 58, Distance to Customer: 2.23606797749979
+State: 5, Taxi ID Number: 274, Distance to Customer: 13.038404810405298
+State: 5, Taxi ID Number: 227, Distance to Customer: 2.0
+State: 5, Taxi ID Number: 375, Distance to Customer: 5.0990195135927845
+State: 5, Taxi ID Number: 222, Distance to Customer: 4.47213595499958
+State: 5, Taxi ID Number: 260, Distance to Customer: 9.486832980505138
+State: 5, Taxi ID Number: 122, Distance to Customer: 6.082762530298219
+State: 5, Taxi ID Number: 128, Distance to Customer: 4.47213595499958
+State: 5, Taxi ID Number: 262, Distance to Customer: 2.23606797749979
+State: 5, Taxi ID Number: 399, Distance to Customer: 0.0
+State: 5, Taxi ID Number: 343, Distance to Customer: 2.0
+State: 5, Taxi ID Number: 181, Distance to Customer: 5.385164807134504
+State: 5, Taxi ID Number: 282, Distance to Customer: 18.439088914585774
+State: 5, Taxi ID Number: 175, Distance to Customer: 1.0
+State: 5, Taxi ID Number: 251, Distance to Customer: 2.0
+State: 5, Taxi ID Number: 382, Distance to Customer: 17.46424919657298
+State: 5, Taxi ID Number: 164, Distance to Customer: 6.082762530298219
+State: 5, Taxi ID Number: 238, Distance to Customer: 17.46424919657298
+State: 5, Taxi ID Number: 281, Distance to Customer: 6.082762530298219
+State: 5, Taxi ID Number: 267, Distance to Customer: 14.7648230602334
+State: 5, Taxi ID Number: 331, Distance to Customer: 5.830951894845301
+State: 5, Taxi ID Number: 212, Distance to Customer: 6.0
+State: 5, Taxi ID Number: 287, Distance to Customer: 4.47213595499958
+State: 5, Taxi ID Number: 291, Distance to Customer: 2.0
+State: 5, Taxi ID Number: 328, Distance to Customer: 10.0
+State: 5, Taxi ID Number: 98, Distance to Customer: 4.0
+State: 5, Taxi ID Number: 304, Distance to Customer: 13.892443989449804
+State: 5, Taxi ID Number: 378, Distance to Customer: 5.0990195135927845
+State: 5, Taxi ID Number: 133, Distance to Customer: 3.605551275463989
+State: 5, Taxi ID Number: 161, Distance to Customer: 2.8284271247461903
+State: 6, Taxi ID Number: 286, Distance to Customer: 2.23606797749979
+State: 6, Taxi ID Number: 29, Distance to Customer: 7.810249675906654
+State: 6, Taxi ID Number: 28, Distance to Customer: 11.0
+State: 6, Taxi ID Number: 311, Distance to Customer: 14.142135623730951
+State: 6, Taxi ID Number: 16, Distance to Customer: 2.0
+State: 6, Taxi ID Number: 210, Distance to Customer: 1.4142135623730951
+State: 6, Taxi ID Number: 399, Distance to Customer: 17.46424919657298
+State: 6, Taxi ID Number: 88, Distance to Customer: 3.1622776601683795
+State: 6, Taxi ID Number: 291, Distance to Customer: 3.605551275463989
+State: 6, Taxi ID Number: 180, Distance to Customer: 12.529964086141668
+State: 6, Taxi ID Number: 175, Distance to Customer: 12.649110640673518
+State: 6, Taxi ID Number: 11, Distance to Customer: 8.246211251235321
+State: 6, Taxi ID Number: 165, Distance to Customer: 5.385164807134504
+State: 6, Taxi ID Number: 124, Distance to Customer: 14.7648230602334
+State: 6, Taxi ID Number: 164, Distance to Customer: 7.211102550927978
+State: 6, Taxi ID Number: 25, Distance to Customer: 34.20526275297414
+State: 6, Taxi ID Number: 362, Distance to Customer: 9.219544457292887
+State: 6, Taxi ID Number: 365, Distance to Customer: 23.40939982143925
+State: 7, Taxi ID Number: 276, Distance to Customer: 4.0
+State: 7, Taxi ID Number: 73, Distance to Customer: 5.0990195135927845
+State: 7, Taxi ID Number: 272, Distance to Customer: 4.0
+State: 7, Taxi ID Number: 180, Distance to Customer: 5.830951894845301
+State: 7, Taxi ID Number: 238, Distance to Customer: 2.8284271247461903
+State: 7, Taxi ID Number: 69, Distance to Customer: 10.0
+State: 7, Taxi ID Number: 160, Distance to Customer: 9.486832980505138
+State: 7, Taxi ID Number: 133, Distance to Customer: 14.142135623730951
+State: 7, Taxi ID Number: 234, Distance to Customer: 7.280109889280518
+State: 7, Taxi ID Number: 178, Distance to Customer: 4.47213595499958
+State: 7, Taxi ID Number: 360, Distance to Customer: 12.206555615733702
+State: 7, Taxi ID Number: 16, Distance to Customer: 1.0
+State: 7, Taxi ID Number: 327, Distance to Customer: 4.123105625617661
+State: 7, Taxi ID Number: 211, Distance to Customer: 11.40175425099138
+State: 7, Taxi ID Number: 33, Distance to Customer: 4.47213595499958
+State: 7, Taxi ID Number: 135, Distance to Customer: 5.830951894845301
+State: 7, Taxi ID Number: 399, Distance to Customer: 2.23606797749979
+State: 7, Taxi ID Number: 165, Distance to Customer: 19.313207915827967
+State: 7, Taxi ID Number: 282, Distance to Customer: 8.246211251235321
+State: 7, Taxi ID Number: 231, Distance to Customer: 12.206555615733702
+State: 7, Taxi ID Number: 170, Distance to Customer: 6.324555320336759
+State: 7, Taxi ID Number: 330, Distance to Customer: 26.019223662515376
+State: 7, Taxi ID Number: 304, Distance to Customer: 24.041630560342615
+State: 7, Taxi ID Number: 262, Distance to Customer: 5.656854249492381
+State: 7, Taxi ID Number: 39, Distance to Customer: 21.095023109728988
+State: 7, Taxi ID Number: 150, Distance to Customer: 9.0
+State: 7, Taxi ID Number: 251, Distance to Customer: 4.242640687119285
+State: 7, Taxi ID Number: 362, Distance to Customer: 6.0
+State: 7, Taxi ID Number: 331, Distance to Customer: 21.470910553583888
+State: 7, Taxi ID Number: 391, Distance to Customer: 4.242640687119285
+State: 7, Taxi ID Number: 127, Distance to Customer: 3.1622776601683795
+State: 7, Taxi ID Number: 380, Distance to Customer: 13.038404810405298
+State: 7, Taxi ID Number: 244, Distance to Customer: 31.400636936215164
+State: 7, Taxi ID Number: 202, Distance to Customer: 7.280109889280518
+State: 7, Taxi ID Number: 68, Distance to Customer: 5.0990195135927845
+State: 7, Taxi ID Number: 291, Distance to Customer: 8.48528137423857
+State: 7, Taxi ID Number: 259, Distance to Customer: 24.698178070456937
+State: 7, Taxi ID Number: 284, Distance to Customer: 16.0
+State: 7, Taxi ID Number: 162, Distance to Customer: 19.72308292331602
+State: 7, Taxi ID Number: 54, Distance to Customer: 5.385164807134504
+State: 7, Taxi ID Number: 382, Distance to Customer: 23.769728648009426
+State: 7, Taxi ID Number: 57, Distance to Customer: 2.0
+State: 7, Taxi ID Number: 206, Distance to Customer: 10.816653826391969
+State: 7, Taxi ID Number: 61, Distance to Customer: 6.0
+State: 7, Taxi ID Number: 50, Distance to Customer: 6.4031242374328485
+State: 8, Taxi ID Number: 362, Distance to Customer: 4.123105625617661
+State: 8, Taxi ID Number: 320, Distance to Customer: 1.4142135623730951
+State: 8, Taxi ID Number: 288, Distance to Customer: 2.23606797749979
+State: 8, Taxi ID Number: 282, Distance to Customer: 2.8284271247461903
+State: 8, Taxi ID Number: 260, Distance to Customer: 2.23606797749979
+State: 8, Taxi ID Number: 11, Distance to Customer: 9.055385138137417
+State: 8, Taxi ID Number: 92, Distance to Customer: 3.1622776601683795
+State: 8, Taxi ID Number: 276, Distance to Customer: 3.605551275463989
+State: 8, Taxi ID Number: 375, Distance to Customer: 7.280109889280518
+State: 8, Taxi ID Number: 136, Distance to Customer: 3.605551275463989
+State: 8, Taxi ID Number: 399, Distance to Customer: 6.324555320336759
+State: 8, Taxi ID Number: 66, Distance to Customer: 4.47213595499958
+State: 8, Taxi ID Number: 291, Distance to Customer: 4.0
+State: 8, Taxi ID Number: 16, Distance to Customer: 4.47213595499958
+State: 8, Taxi ID Number: 202, Distance to Customer: 3.605551275463989
+State: 8, Taxi ID Number: 336, Distance to Customer: 5.385164807134504
+State: 8, Taxi ID Number: 231, Distance to Customer: 2.23606797749979
+State: 8, Taxi ID Number: 99, Distance to Customer: 4.47213595499958
+State: 8, Taxi ID Number: 127, Distance to Customer: 8.0
+State: 8, Taxi ID Number: 86, Distance to Customer: 3.1622776601683795
+State: 8, Taxi ID Number: 196, Distance to Customer: 2.23606797749979
+State: 8, Taxi ID Number: 122, Distance to Customer: 4.47213595499958
+State: 8, Taxi ID Number: 397, Distance to Customer: 5.0
+State: 8, Taxi ID Number: 128, Distance to Customer: 4.123105625617661
+State: 8, Taxi ID Number: 251, Distance to Customer: 4.123105625617661
+State: 8, Taxi ID Number: 57, Distance to Customer: 3.605551275463989
+State: 8, Taxi ID Number: 141, Distance to Customer: 5.0
+State: 8, Taxi ID Number: 380, Distance to Customer: 5.830951894845301
+State: 8, Taxi ID Number: 28, Distance to Customer: 7.0710678118654755
+State: 8, Taxi ID Number: 267, Distance to Customer: 2.0
+State: 8, Taxi ID Number: 383, Distance to Customer: 6.708203932499369
+State: 8, Taxi ID Number: 286, Distance to Customer: 1.0
+State: 8, Taxi ID Number: 15, Distance to Customer: 6.4031242374328485
+State: 8, Taxi ID Number: 180, Distance to Customer: 8.06225774829855
+State: 8, Taxi ID Number: 84, Distance to Customer: 5.0990195135927845
+State: 8, Taxi ID Number: 50, Distance to Customer: 8.602325267042627
+State: 8, Taxi ID Number: 254, Distance to Customer: 4.0
+State: 8, Taxi ID Number: 213, Distance to Customer: 5.0990195135927845
+State: 8, Taxi ID Number: 281, Distance to Customer: 1.4142135623730951
+State: 8, Taxi ID Number: 372, Distance to Customer: 3.1622776601683795
+State: 8, Taxi ID Number: 382, Distance to Customer: 13.92838827718412
+State: 8, Taxi ID Number: 234, Distance to Customer: 8.06225774829855
+State: 8, Taxi ID Number: 52, Distance to Customer: 3.0
+State: 8, Taxi ID Number: 341, Distance to Customer: 4.0
+State: 8, Taxi ID Number: 61, Distance to Customer: 6.4031242374328485
+State: 8, Taxi ID Number: 78, Distance to Customer: 4.242640687119285
+State: 8, Taxi ID Number: 59, Distance to Customer: 7.810249675906654
+State: 8, Taxi ID Number: 164, Distance to Customer: 15.0
+State: 8, Taxi ID Number: 287, Distance to Customer: 7.810249675906654
+State: 8, Taxi ID Number: 102, Distance to Customer: 1.4142135623730951
+State: 8, Taxi ID Number: 124, Distance to Customer: 2.23606797749979
+State: 8, Taxi ID Number: 304, Distance to Customer: 1.0
+State: 8, Taxi ID Number: 160, Distance to Customer: 8.246211251235321
+State: 8, Taxi ID Number: 98, Distance to Customer: 8.54400374531753
+State: 8, Taxi ID Number: 210, Distance to Customer: 15.556349186104045
+State: 8, Taxi ID Number: 135, Distance to Customer: 32.55764119219941
+State: 8, Taxi ID Number: 273, Distance to Customer: 5.0990195135927845
+State: 8, Taxi ID Number: 132, Distance to Customer: 18.439088914585774
+State: 8, Taxi ID Number: 71, Distance to Customer: 25.079872407968907
+State: 8, Taxi ID Number: 212, Distance to Customer: 9.848857801796104
+State: 8, Taxi ID Number: 310, Distance to Customer: 8.06225774829855
+State: 8, Taxi ID Number: 279, Distance to Customer: 18.110770276274835
+State: 8, Taxi ID Number: 161, Distance to Customer: 5.0
+State: 8, Taxi ID Number: 177, Distance to Customer: 11.313708498984761
+State: 8, Taxi ID Number: 344, Distance to Customer: 2.0
+State: 8, Taxi ID Number: 391, Distance to Customer: 8.48528137423857
+State: 8, Taxi ID Number: 327, Distance to Customer: 2.0
+State: 8, Taxi ID Number: 165, Distance to Customer: 13.92838827718412
+State: 8, Taxi ID Number: 211, Distance to Customer: 12.165525060596439
+
+ INCOMPLETE TRANSACTIONS 
+
+State: 3, X Coordinate: 9, Y Coordinate: -5
+State: 3, X Coordinate: -20, Y Coordinate: 28
+State: 3, X Coordinate: -8, Y Coordinate: 18
+State: 3, X Coordinate: 17, Y Coordinate: 28
+State: 3, X Coordinate: -13, Y Coordinate: 13
+State: 3, X Coordinate: 15, Y Coordinate: -19
+State: 3, X Coordinate: 20, Y Coordinate: 0
+State: 3, X Coordinate: 29, Y Coordinate: -27
+State: 3, X Coordinate: -28, Y Coordinate: 1
+State: 3, X Coordinate: 27, Y Coordinate: -13
+State: 4, X Coordinate: 9, Y Coordinate: -20
+State: 4, X Coordinate: 18, Y Coordinate: 10
+State: 4, X Coordinate: -7, Y Coordinate: -11
+State: 4, X Coordinate: -10, Y Coordinate: 20
+State: 4, X Coordinate: -20, Y Coordinate: 18
+State: 5, X Coordinate: 10, Y Coordinate: 1
+State: 5, X Coordinate: 6, Y Coordinate: -25
+State: 5, X Coordinate: 18, Y Coordinate: 2
+State: 5, X Coordinate: 16, Y Coordinate: 6
+State: 5, X Coordinate: 14, Y Coordinate: -2
+State: 5, X Coordinate: 17, Y Coordinate: -16
+State: 5, X Coordinate: -20, Y Coordinate: -1
+State: 7, X Coordinate: -5, Y Coordinate: 24
+State: 7, X Coordinate: -26, Y Coordinate: -26
+State: 7, X Coordinate: -24, Y Coordinate: -22
+State: 7, X Coordinate: -2, Y Coordinate: -25
+State: 7, X Coordinate: 30, Y Coordinate: -15
+State: 7, X Coordinate: 6, Y Coordinate: -27
+State: 7, X Coordinate: 12, Y Coordinate: -20
+State: 7, X Coordinate: -3, Y Coordinate: -15
+State: 7, X Coordinate: -10, Y Coordinate: 16
+State: 7, X Coordinate: 31, Y Coordinate: -1
+State: 8, X Coordinate: -4, Y Coordinate: -2
+State: 8, X Coordinate: -22, Y Coordinate: 21
+State: 8, X Coordinate: 16, Y Coordinate: 2
+State: 8, X Coordinate: 6, Y Coordinate: 10
+State: 8, X Coordinate: -2, Y Coordinate: -12
+State: 8, X Coordinate: -6, Y Coordinate: 23
+State: 8, X Coordinate: 0, Y Coordinate: -20

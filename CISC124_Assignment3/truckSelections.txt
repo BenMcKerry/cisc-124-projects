@@ -1,0 +1,127 @@
+COMPLETED TRANSACTIONS 
+
+State: 1, Truck ID Number: 2321, Mass of Added Load: 109, Old Capacity: 1000, New Capacity: 891
+State: 1, Truck ID Number: 1249, Mass of Added Load: 79, Old Capacity: 800, New Capacity: 721
+State: 1, Truck ID Number: 1124, Mass of Added Load: 97, Old Capacity: 750, New Capacity: 653
+State: 1, Truck ID Number: 3796, Mass of Added Load: 102, Old Capacity: 900, New Capacity: 798
+State: 1, Truck ID Number: 2195, Mass of Added Load: 91, Old Capacity: 1000, New Capacity: 909
+State: 1, Truck ID Number: 1493, Mass of Added Load: 102, Old Capacity: 950, New Capacity: 848
+State: 1, Truck ID Number: 3316, Mass of Added Load: 58, Old Capacity: 800, New Capacity: 742
+State: 1, Truck ID Number: 3026, Mass of Added Load: 84, Old Capacity: 950, New Capacity: 866
+State: 1, Truck ID Number: 2176, Mass of Added Load: 37, Old Capacity: 800, New Capacity: 763
+State: 1, Truck ID Number: 3975, Mass of Added Load: 35, Old Capacity: 850, New Capacity: 815
+State: 1, Truck ID Number: 1501, Mass of Added Load: 18, Old Capacity: 700, New Capacity: 682
+State: 1, Truck ID Number: 3533, Mass of Added Load: 57, Old Capacity: 750, New Capacity: 693
+State: 1, Truck ID Number: 2058, Mass of Added Load: 84, Old Capacity: 900, New Capacity: 816
+State: 1, Truck ID Number: 2779, Mass of Added Load: 33, Old Capacity: 900, New Capacity: 867
+State: 1, Truck ID Number: 3404, Mass of Added Load: 99, Old Capacity: 950, New Capacity: 851
+State: 1, Truck ID Number: 2750, Mass of Added Load: 91, Old Capacity: 800, New Capacity: 709
+State: 1, Truck ID Number: 3788, Mass of Added Load: 110, Old Capacity: 900, New Capacity: 790
+State: 1, Truck ID Number: 1750, Mass of Added Load: 81, Old Capacity: 600, New Capacity: 519
+State: 1, Truck ID Number: 486, Mass of Added Load: 111, Old Capacity: 700, New Capacity: 589
+State: 1, Truck ID Number: 858, Mass of Added Load: 59, Old Capacity: 600, New Capacity: 541
+State: 1, Truck ID Number: 546, Mass of Added Load: 105, Old Capacity: 750, New Capacity: 645
+State: 1, Truck ID Number: 3520, Mass of Added Load: 51, Old Capacity: 650, New Capacity: 599
+State: 1, Truck ID Number: 1137, Mass of Added Load: 61, Old Capacity: 600, New Capacity: 539
+State: 2, Truck ID Number: 2779, Mass of Added Load: 48, Old Capacity: 478, New Capacity: 430
+State: 2, Truck ID Number: 1156, Mass of Added Load: 17, Old Capacity: 533, New Capacity: 516
+State: 2, Truck ID Number: 2750, Mass of Added Load: 78, Old Capacity: 489, New Capacity: 411
+State: 2, Truck ID Number: 3475, Mass of Added Load: 67, Old Capacity: 490, New Capacity: 423
+State: 2, Truck ID Number: 1249, Mass of Added Load: 70, Old Capacity: 467, New Capacity: 397
+State: 2, Truck ID Number: 3316, Mass of Added Load: 101, Old Capacity: 428, New Capacity: 327
+State: 2, Truck ID Number: 1493, Mass of Added Load: 35, Old Capacity: 326, New Capacity: 291
+State: 2, Truck ID Number: 1501, Mass of Added Load: 93, Old Capacity: 375, New Capacity: 282
+State: 2, Truck ID Number: 3796, Mass of Added Load: 58, Old Capacity: 451, New Capacity: 393
+State: 2, Truck ID Number: 2195, Mass of Added Load: 40, Old Capacity: 266, New Capacity: 226
+State: 2, Truck ID Number: 2782, Mass of Added Load: 55, Old Capacity: 168, New Capacity: 113
+State: 2, Truck ID Number: 3026, Mass of Added Load: 25, Old Capacity: 405, New Capacity: 380
+State: 2, Truck ID Number: 2441, Mass of Added Load: 61, Old Capacity: 286, New Capacity: 225
+State: 3, Truck ID Number: 1527, Mass of Added Load: 106, Old Capacity: 746, New Capacity: 640
+State: 3, Truck ID Number: 1249, Mass of Added Load: 72, Old Capacity: 486, New Capacity: 414
+State: 3, Truck ID Number: 2779, Mass of Added Load: 41, Old Capacity: 450, New Capacity: 409
+State: 3, Truck ID Number: 2321, Mass of Added Load: 26, Old Capacity: 446, New Capacity: 420
+State: 3, Truck ID Number: 3026, Mass of Added Load: 24, Old Capacity: 408, New Capacity: 384
+State: 3, Truck ID Number: 1506, Mass of Added Load: 89, Old Capacity: 395, New Capacity: 306
+State: 3, Truck ID Number: 1124, Mass of Added Load: 65, Old Capacity: 403, New Capacity: 338
+State: 3, Truck ID Number: 486, Mass of Added Load: 79, Old Capacity: 385, New Capacity: 306
+State: 3, Truck ID Number: 1501, Mass of Added Load: 39, Old Capacity: 292, New Capacity: 253
+State: 3, Truck ID Number: 3779, Mass of Added Load: 77, Old Capacity: 356, New Capacity: 279
+State: 3, Truck ID Number: 3788, Mass of Added Load: 57, Old Capacity: 547, New Capacity: 490
+State: 3, Truck ID Number: 2058, Mass of Added Load: 53, Old Capacity: 342, New Capacity: 289
+State: 3, Truck ID Number: 2780, Mass of Added Load: 74, Old Capacity: 306, New Capacity: 232
+State: 3, Truck ID Number: 858, Mass of Added Load: 91, Old Capacity: 499, New Capacity: 408
+State: 3, Truck ID Number: 3975, Mass of Added Load: 77, Old Capacity: 281, New Capacity: 204
+State: 3, Truck ID Number: 3533, Mass of Added Load: 113, Old Capacity: 391, New Capacity: 278
+State: 3, Truck ID Number: 2782, Mass of Added Load: 53, Old Capacity: 541, New Capacity: 488
+State: 3, Truck ID Number: 546, Mass of Added Load: 106, Old Capacity: 355, New Capacity: 249
+State: 4, Truck ID Number: 3533, Mass of Added Load: 36, Old Capacity: 629, New Capacity: 593
+State: 4, Truck ID Number: 3520, Mass of Added Load: 42, Old Capacity: 599, New Capacity: 557
+State: 4, Truck ID Number: 2585, Mass of Added Load: 81, Old Capacity: 596, New Capacity: 515
+State: 4, Truck ID Number: 2195, Mass of Added Load: 93, Old Capacity: 592, New Capacity: 499
+State: 4, Truck ID Number: 2750, Mass of Added Load: 80, Old Capacity: 440, New Capacity: 360
+State: 4, Truck ID Number: 3788, Mass of Added Load: 114, Old Capacity: 539, New Capacity: 425
+State: 4, Truck ID Number: 2782, Mass of Added Load: 23, Old Capacity: 497, New Capacity: 474
+State: 4, Truck ID Number: 3475, Mass of Added Load: 59, Old Capacity: 422, New Capacity: 363
+State: 4, Truck ID Number: 3316, Mass of Added Load: 106, Old Capacity: 579, New Capacity: 473
+State: 5, Truck ID Number: 1244, Mass of Added Load: 57, Old Capacity: 495, New Capacity: 438
+State: 5, Truck ID Number: 1506, Mass of Added Load: 35, Old Capacity: 612, New Capacity: 577
+State: 5, Truck ID Number: 3026, Mass of Added Load: 89, Old Capacity: 526, New Capacity: 437
+State: 5, Truck ID Number: 2441, Mass of Added Load: 78, Old Capacity: 244, New Capacity: 166
+State: 5, Truck ID Number: 2782, Mass of Added Load: 52, Old Capacity: 232, New Capacity: 180
+State: 5, Truck ID Number: 1137, Mass of Added Load: 102, Old Capacity: 444, New Capacity: 342
+State: 6, Truck ID Number: 1156, Mass of Added Load: 107, Old Capacity: 399, New Capacity: 292
+State: 6, Truck ID Number: 3779, Mass of Added Load: 69, Old Capacity: 542, New Capacity: 473
+State: 6, Truck ID Number: 2058, Mass of Added Load: 19, Old Capacity: 319, New Capacity: 300
+State: 6, Truck ID Number: 3796, Mass of Added Load: 109, Old Capacity: 662, New Capacity: 553
+State: 6, Truck ID Number: 2782, Mass of Added Load: 114, Old Capacity: 543, New Capacity: 429
+State: 6, Truck ID Number: 2321, Mass of Added Load: 105, Old Capacity: 270, New Capacity: 165
+State: 6, Truck ID Number: 1501, Mass of Added Load: 107, Old Capacity: 509, New Capacity: 402
+State: 6, Truck ID Number: 1051, Mass of Added Load: 110, Old Capacity: 508, New Capacity: 398
+State: 6, Truck ID Number: 783, Mass of Added Load: 106, Old Capacity: 245, New Capacity: 139
+State: 6, Truck ID Number: 2780, Mass of Added Load: 110, Old Capacity: 507, New Capacity: 397
+State: 6, Truck ID Number: 1750, Mass of Added Load: 74, Old Capacity: 423, New Capacity: 349
+State: 6, Truck ID Number: 3026, Mass of Added Load: 100, Old Capacity: 263, New Capacity: 163
+State: 6, Truck ID Number: 659, Mass of Added Load: 99, Old Capacity: 405, New Capacity: 306
+State: 6, Truck ID Number: 3533, Mass of Added Load: 99, Old Capacity: 411, New Capacity: 312
+State: 6, Truck ID Number: 858, Mass of Added Load: 69, Old Capacity: 216, New Capacity: 147
+State: 6, Truck ID Number: 2176, Mass of Added Load: 16, Old Capacity: 427, New Capacity: 411
+State: 6, Truck ID Number: 546, Mass of Added Load: 72, Old Capacity: 570, New Capacity: 498
+State: 6, Truck ID Number: 2182, Mass of Added Load: 47, Old Capacity: 365, New Capacity: 318
+State: 6, Truck ID Number: 2195, Mass of Added Load: 28, Old Capacity: 267, New Capacity: 239
+State: 6, Truck ID Number: 3316, Mass of Added Load: 68, Old Capacity: 209, New Capacity: 141
+State: 6, Truck ID Number: 2779, Mass of Added Load: 37, Old Capacity: 408, New Capacity: 371
+State: 6, Truck ID Number: 486, Mass of Added Load: 89, Old Capacity: 204, New Capacity: 115
+State: 6, Truck ID Number: 2585, Mass of Added Load: 23, Old Capacity: 160, New Capacity: 137
+State: 6, Truck ID Number: 1506, Mass of Added Load: 72, Old Capacity: 127, New Capacity: 55
+
+ INCOMPLETE TRANSACTIONS 
+
+State: 1, Destination: Dunchurch, Load Mass: 98
+State: 1, Destination: Combermere, Load Mass: 83
+State: 1, Destination: Embrun, Load Mass: 91
+State: 1, Destination: Marlbank, Load Mass: 106
+State: 1, Destination: Combermere, Load Mass: 66
+State: 1, Destination: Havelock, Load Mass: 62
+State: 1, Destination: Marlbank, Load Mass: 65
+State: 1, Destination: Embrun, Load Mass: 70
+State: 1, Destination: Bancroft, Load Mass: 11
+State: 1, Destination: Combermere, Load Mass: 78
+State: 1, Destination: Huntsville, Load Mass: 60
+State: 2, Destination: Waupoos, Load Mass: 30
+State: 2, Destination: Tweed, Load Mass: 54
+State: 2, Destination: Waupoos, Load Mass: 24
+State: 4, Destination: Cobden, Load Mass: 26
+State: 5, Destination: Flinton, Load Mass: 16
+State: 5, Destination: Roseneath, Load Mass: 19
+State: 5, Destination: Bala, Load Mass: 29
+State: 6, Destination: Combermere, Load Mass: 86
+State: 6, Destination: Milford, Load Mass: 90
+State: 6, Destination: Huntsville, Load Mass: 89
+State: 6, Destination: Huntsville, Load Mass: 85
+State: 6, Destination: Huntsville, Load Mass: 43
+State: 6, Destination: Huntsville, Load Mass: 19
+State: 6, Destination: Westport, Load Mass: 86
+State: 6, Destination: Dunchurch, Load Mass: 96
+State: 6, Destination: Kaladar, Load Mass: 92
+State: 6, Destination: Maxville, Load Mass: 22
+State: 6, Destination: Huntsville, Load Mass: 64

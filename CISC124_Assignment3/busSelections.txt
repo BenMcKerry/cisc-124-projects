@@ -1,0 +1,102 @@
+COMPLETED TRANSACTIONS 
+
+ State: 1, Bus ID Number: 232430, Bus Mileage: 37430, Number of Bus Seats: 77
+ State: 1, Bus ID Number: 629050, Bus Mileage: 37430, Number of Bus Seats: 72
+ State: 1, Bus ID Number: 490529, Bus Mileage: 37430, Number of Bus Seats: 63
+ State: 1, Bus ID Number: 742895, Bus Mileage: 37430, Number of Bus Seats: 77
+ State: 1, Bus ID Number: 429507, Bus Mileage: 37430, Number of Bus Seats: 43
+ State: 1, Bus ID Number: 386476, Bus Mileage: 37430, Number of Bus Seats: 36
+ State: 1, Bus ID Number: 495356, Bus Mileage: 37430, Number of Bus Seats: 43
+ State: 1, Bus ID Number: 521988, Bus Mileage: 37430, Number of Bus Seats: 46
+ State: 1, Bus ID Number: 574706, Bus Mileage: 37430, Number of Bus Seats: 15
+ State: 1, Bus ID Number: 727569, Bus Mileage: 37430, Number of Bus Seats: 71
+ State: 1, Bus ID Number: 462386, Bus Mileage: 37430, Number of Bus Seats: 29
+ State: 1, Bus ID Number: 614499, Bus Mileage: 37430, Number of Bus Seats: 78
+ State: 1, Bus ID Number: 306685, Bus Mileage: 37430, Number of Bus Seats: 49
+ State: 1, Bus ID Number: 453346, Bus Mileage: 37430, Number of Bus Seats: 66
+ State: 1, Bus ID Number: 506258, Bus Mileage: 37430, Number of Bus Seats: 78
+ State: 1, Bus ID Number: 456097, Bus Mileage: 37430, Number of Bus Seats: 71
+ State: 1, Bus ID Number: 488650, Bus Mileage: 37430, Number of Bus Seats: 76
+ State: 1, Bus ID Number: 837635, Bus Mileage: 37430, Number of Bus Seats: 24
+ State: 2, Bus ID Number: 429507, Bus Mileage: 65085, Number of Bus Seats: 43
+ State: 2, Bus ID Number: 742895, Bus Mileage: 43943, Number of Bus Seats: 77
+ State: 2, Bus ID Number: 232430, Bus Mileage: 38639, Number of Bus Seats: 77
+ State: 2, Bus ID Number: 506258, Bus Mileage: 63036, Number of Bus Seats: 78
+ State: 2, Bus ID Number: 614499, Bus Mileage: 35129, Number of Bus Seats: 78
+ State: 2, Bus ID Number: 877061, Bus Mileage: 72672, Number of Bus Seats: 55
+ State: 2, Bus ID Number: 488650, Bus Mileage: 60514, Number of Bus Seats: 76
+ State: 2, Bus ID Number: 183853, Bus Mileage: 70040, Number of Bus Seats: 23
+ State: 2, Bus ID Number: 802132, Bus Mileage: 76429, Number of Bus Seats: 67
+ State: 2, Bus ID Number: 495356, Bus Mileage: 71530, Number of Bus Seats: 43
+ State: 2, Bus ID Number: 453346, Bus Mileage: 58227, Number of Bus Seats: 66
+ State: 2, Bus ID Number: 252392, Bus Mileage: 86971, Number of Bus Seats: 56
+ State: 2, Bus ID Number: 601292, Bus Mileage: 76251, Number of Bus Seats: 50
+ State: 2, Bus ID Number: 837635, Bus Mileage: 61817, Number of Bus Seats: 24
+ State: 2, Bus ID Number: 629050, Bus Mileage: 42109, Number of Bus Seats: 72
+ State: 2, Bus ID Number: 456097, Bus Mileage: 89539, Number of Bus Seats: 71
+ State: 2, Bus ID Number: 140054, Bus Mileage: 73025, Number of Bus Seats: 28
+ State: 2, Bus ID Number: 386476, Bus Mileage: 78653, Number of Bus Seats: 36
+ State: 2, Bus ID Number: 143966, Bus Mileage: 87787, Number of Bus Seats: 57
+ State: 2, Bus ID Number: 464577, Bus Mileage: 55048, Number of Bus Seats: 74
+ State: 2, Bus ID Number: 375904, Bus Mileage: 53587, Number of Bus Seats: 22
+ State: 2, Bus ID Number: 328093, Bus Mileage: 77418, Number of Bus Seats: 25
+ State: 2, Bus ID Number: 521988, Bus Mileage: 88067, Number of Bus Seats: 46
+ State: 2, Bus ID Number: 727569, Bus Mileage: 91424, Number of Bus Seats: 71
+ State: 3, Bus ID Number: 453346, Bus Mileage: 58227, Number of Bus Seats: 66
+ State: 3, Bus ID Number: 429507, Bus Mileage: 65085, Number of Bus Seats: 43
+ State: 3, Bus ID Number: 742895, Bus Mileage: 43943, Number of Bus Seats: 77
+ State: 3, Bus ID Number: 506258, Bus Mileage: 63036, Number of Bus Seats: 78
+ State: 3, Bus ID Number: 495356, Bus Mileage: 71530, Number of Bus Seats: 43
+ State: 3, Bus ID Number: 877061, Bus Mileage: 72672, Number of Bus Seats: 55
+ State: 3, Bus ID Number: 488650, Bus Mileage: 60514, Number of Bus Seats: 76
+ State: 3, Bus ID Number: 464577, Bus Mileage: 55048, Number of Bus Seats: 74
+ State: 3, Bus ID Number: 183853, Bus Mileage: 70040, Number of Bus Seats: 23
+ State: 3, Bus ID Number: 306685, Bus Mileage: 60972, Number of Bus Seats: 49
+ State: 3, Bus ID Number: 232430, Bus Mileage: 38639, Number of Bus Seats: 77
+ State: 3, Bus ID Number: 802132, Bus Mileage: 76429, Number of Bus Seats: 67
+ State: 3, Bus ID Number: 490529, Bus Mileage: 50674, Number of Bus Seats: 63
+ State: 3, Bus ID Number: 601292, Bus Mileage: 76251, Number of Bus Seats: 50
+ State: 3, Bus ID Number: 140054, Bus Mileage: 73025, Number of Bus Seats: 28
+ State: 3, Bus ID Number: 386476, Bus Mileage: 78653, Number of Bus Seats: 36
+ State: 3, Bus ID Number: 143966, Bus Mileage: 87787, Number of Bus Seats: 57
+ State: 3, Bus ID Number: 651332, Bus Mileage: 53027, Number of Bus Seats: 43
+ State: 3, Bus ID Number: 629050, Bus Mileage: 42109, Number of Bus Seats: 72
+ State: 3, Bus ID Number: 456097, Bus Mileage: 89539, Number of Bus Seats: 71
+ State: 3, Bus ID Number: 837635, Bus Mileage: 61817, Number of Bus Seats: 24
+ State: 3, Bus ID Number: 614499, Bus Mileage: 35129, Number of Bus Seats: 78
+ State: 3, Bus ID Number: 328093, Bus Mileage: 77418, Number of Bus Seats: 25
+ State: 3, Bus ID Number: 252392, Bus Mileage: 86971, Number of Bus Seats: 56
+ State: 3, Bus ID Number: 521988, Bus Mileage: 88067, Number of Bus Seats: 46
+ State: 3, Bus ID Number: 727569, Bus Mileage: 91424, Number of Bus Seats: 71
+ State: 3, Bus ID Number: 375904, Bus Mileage: 53587, Number of Bus Seats: 22
+ State: 4, Bus ID Number: 429507, Bus Mileage: 65085, Number of Bus Seats: 43
+ State: 4, Bus ID Number: 506258, Bus Mileage: 63036, Number of Bus Seats: 78
+ State: 4, Bus ID Number: 306685, Bus Mileage: 60972, Number of Bus Seats: 49
+ State: 4, Bus ID Number: 837635, Bus Mileage: 61817, Number of Bus Seats: 24
+ State: 4, Bus ID Number: 488650, Bus Mileage: 60514, Number of Bus Seats: 76
+ State: 4, Bus ID Number: 453346, Bus Mileage: 58227, Number of Bus Seats: 66
+ State: 4, Bus ID Number: 495356, Bus Mileage: 71530, Number of Bus Seats: 43
+ State: 4, Bus ID Number: 183853, Bus Mileage: 70040, Number of Bus Seats: 23
+ State: 4, Bus ID Number: 464577, Bus Mileage: 55048, Number of Bus Seats: 74
+ State: 4, Bus ID Number: 140054, Bus Mileage: 73025, Number of Bus Seats: 28
+ State: 4, Bus ID Number: 490529, Bus Mileage: 50674, Number of Bus Seats: 63
+ State: 4, Bus ID Number: 601292, Bus Mileage: 76251, Number of Bus Seats: 50
+ State: 4, Bus ID Number: 802132, Bus Mileage: 76429, Number of Bus Seats: 67
+ State: 4, Bus ID Number: 252392, Bus Mileage: 86971, Number of Bus Seats: 56
+ State: 4, Bus ID Number: 614499, Bus Mileage: 35129, Number of Bus Seats: 78
+ State: 4, Bus ID Number: 742895, Bus Mileage: 43943, Number of Bus Seats: 77
+ State: 5, Bus ID Number: 429507, Bus Mileage: 65085, Number of Bus Seats: 43
+ State: 5, Bus ID Number: 506258, Bus Mileage: 63036, Number of Bus Seats: 78
+ State: 5, Bus ID Number: 488650, Bus Mileage: 60514, Number of Bus Seats: 76
+ State: 5, Bus ID Number: 495356, Bus Mileage: 71530, Number of Bus Seats: 43
+ State: 5, Bus ID Number: 306685, Bus Mileage: 60972, Number of Bus Seats: 49
+ State: 5, Bus ID Number: 877061, Bus Mileage: 72672, Number of Bus Seats: 55
+
+ INCOMPLETE TRANSACTIONS 
+
+ State: 1, Destination: Merrickville, Seats Required: 79
+ State: 1, Destination: Vennachar, Seats Required: 73
+ State: 2, Destination: Grafton, Seats Required: 77
+ State: 3, Destination: Madoc, Seats Required: 29
+ State: 4, Destination: Maxville, Seats Required: 80
+ State: 5, Destination: Havelock, Seats Required: 79
